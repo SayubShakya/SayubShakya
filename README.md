@@ -1,5 +1,3 @@
-![logo](https://github.com/SayubShakya/Sayub-Shakya/blob/main/-%20B.png)
- 
 <h1 align="center">Hello there👋It's me, Sayub Shakya</h1>
 <h3 align="center">A dedicated software engineer from Nepal.</h3>
 
