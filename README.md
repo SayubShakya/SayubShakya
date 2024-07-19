@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shakya.sayub123@gmail.com**
 
-- ⚡ Fun fact **Java was named after coffee because its creators were inspired by their love for coffee and the need for a "hot" language.Java was named after coffee because its creators were inspired by their love for coffee and the need for a "hot" language.Java was named after coffee because its creators were inspired by their love for coffee and the need for a "hot" language.Java was named after coffee because its creators were inspired by their love for coffee and the need for a "hot" language.Java was named after coffee because its creators were inspired by their love for coffee and the need for a "hot" language☕.**
+- ⚡ Fun fact **Java was named after coffee because its creators were inspired by their love for coffee and the need for a "hot" language☕.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
