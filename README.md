@@ -1,5 +1,5 @@
 <h1 align="center">Hello there👋It's me, Sayub Shakya</h1>
-<h3 align="center">A dedicated software engineer from Nepal.</h3>
+<h3 align="center">A Software Engineering Student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayubshakya&label=Profile%20views&color=0e75b6&style=flat" alt="sayubshakya" /> </p>
 
